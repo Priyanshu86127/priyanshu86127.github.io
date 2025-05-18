@@ -24,7 +24,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*===== Profile REVEAL ANIMATION =====*/
 // Array of job titles you want to cycle through
-const jobTitles = ["Web Designer", "Python Developer"];
+const jobTitles = ["Web Developer", "Python Developer"];
 let jobIndex = 0;
 
 // Get the element where the job title will be displayed
